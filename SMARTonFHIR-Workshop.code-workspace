@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../framingham-risk-score-start"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bmi-calculator-start"
+	}
+}
